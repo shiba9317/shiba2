@@ -49,3 +49,9 @@
 
 5．rostopic echo /twice.py で実行する（成功すると、+2された数字が標準出力される）
 
+###   ライセンス
+・ROS→BSD3-Clause "New" or "Revised" License
+
+### 動作
+youtubeにて、その動作を確認できる動画を公開する
+URL→
