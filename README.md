@@ -53,5 +53,6 @@
 ・ROS→BSD3-Clause "New" or "Revised" License
 
 ## 動作
-youtubeにて、その動作を確認できる動画を公開する
-URL→
+・youtubeにて、その動作を確認できる動画を公開する
+
+・URL→
